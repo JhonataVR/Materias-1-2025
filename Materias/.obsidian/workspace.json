@@ -11,10 +11,14 @@
             "id": "0a5f6385536a22f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Calculo_lll/Inicio.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Inicio"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calculo_lll/Inicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Inicio"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calculo_lll/Inicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Inicio"
             }
           },
           {
@@ -136,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Calculo_lll/Inicio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Bienvenido"
+              "title": "Esquema de Inicio"
             }
           }
         ]
@@ -164,13 +170,14 @@
   },
   "active": "87bfa27e3e3b0535",
   "lastOpenFiles": [
+    "Bienvenido.md",
+    "Calculo_lll/Inicio.md",
     "Fisica_lll",
     "Calculo_lll",
     "Analisis_diseno_ll",
     "Administracion_base_de_datos",
     "Tecnologias_emergentes",
     "Organizacion_y_metodos",
-    "Investigacion_operativa",
-    "Bienvenido.md"
+    "Investigacion_operativa"
   ]
 }
